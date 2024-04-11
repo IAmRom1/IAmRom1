@@ -1,4 +1,4 @@
-<img align="left" height="234" src="./hack.gif"/>
+<img align="left" height="160" src="./hack.gif"/>
 
 ```diff
 Hi, I'm IAmRom1 
