@@ -1,10 +1,14 @@
-```css
-Hi, Im IAmRom1 
+# Hi, I'm Romain! 👋  
 
-    <WebDeveloper/> <UI-UX/> <Geek/>
-  
-  * 💻 Program in Typescript, React, SCSS
-  * 📚 Front end developer student
-  * 📧 contact@romainsavigny.be
+  <WebDeveloper/> <UI-UX/> <Geek/>  
 
-```
+---
+
+## 🛠️ Skills
+- TypeScript, React, SCSS  
+- UI/UX Design  
+
+---
+
+## 📫 Contact
+📧 [contact@romainsavigny.be](mailto:contact@romainsavigny.be)  
